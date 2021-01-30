@@ -1,0 +1,10 @@
+a {
+	text-decoration: none;
+	width: fit-content;
+}
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+}
